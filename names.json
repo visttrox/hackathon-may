@@ -1,0 +1,49 @@
+{
+    "Классы" : [
+        "Бард",
+        "Волшебник",
+        "Изобретатель",
+        "Воин",
+        "Колдун",
+        "Плут"
+    ],
+    "Расы" : {
+        "Драконорожденный" : ["image", "raca", "Dragonborn"],
+        "Карлик" : ["image", "raca", "Dwarf"],
+        "Эльф" : ["image", "raca", "Elf"],
+        "Человек" : ["image", "raca", "Human"],
+        "Человек-ящирица" : ["image", "raca", "Lizardman"],
+        "Орк" : ["image", "raca", "Orc"]
+    },
+    "Черты" : [
+        "Стойкий",
+        "Везунчик",
+        "Лекарь",
+        "Драчун",
+        "Налетчик",
+        "Телепат"
+    ],
+    "Заклинания" : {
+        "Огненный шар" : ["image", "spells", "Fireball"],
+        "Магическая рука" : ["image", "spells", "Magic hand"],
+        "Лабиринт" : ["image", "spells", "Maze"],
+        "Леденная стена" : ["image", "spells", "Ice wall"],
+        "Заражение" : ["image", "spells", "Virus"],
+        "Водоворот" : ["image", "spells", "Whirlpool"]
+    },
+    "Оружия" : {
+        "Лук" : ["image", "weapons", "Bow"],
+        "Морозный посох" : ["image", "weapons", "Frost staff"],
+        "Булава распада" : ["image", "weapons", "Mace of decay"],
+        "Булава наказания" : ["image", "weapons", "Mace of punishment"],
+        "Волшебная палочка" : ["image", "weapons", "Magic wand"],
+        "Кирка" : ["image", "weapons", "Pickaxe"]
+    },
+    "Группы" : [
+        "Красный",
+        "Зеленый",
+        "Синий",
+        "Желтый",
+        "Фиолетовый"
+    ]
+}
